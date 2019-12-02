@@ -1,0 +1,13 @@
+
+public class TestVar {
+	public void m() {
+		int z = 2;
+		System.out.println(z);
+	}
+	static int i = 1;
+	public static void main(String[] args) {
+		int j = 3;
+		System.out.println(j);
+		System.out.println(i);
+	}
+}

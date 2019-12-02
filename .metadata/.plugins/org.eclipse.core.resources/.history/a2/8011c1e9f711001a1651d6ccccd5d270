@@ -1,0 +1,22 @@
+
+
+/*
+ * 基本数据类型转换
+ */
+public class TestConvert {
+	public static void main(String[] args) {
+		int i1 = 123;
+		int i2 = 456;
+		double d1 = i1+i2;//系统将int转换为double
+		float float1 = (float)((i1+i2)*0.2);//double类型无法直接转换为float，需要强制转换
+		byte b1 = 1;
+		byte b2 = 2;
+		byte b3 = (byte)(b1+b2);   //byte类型做运算先转换为int，int无法直接转换为byte
+		System.out.println("b3=="+b3);
+		
+		double d2 = 1e300;
+		float f2 = (float) d2;
+		System.out.println(f2);
+		
+	}
+}

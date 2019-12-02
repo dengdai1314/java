@@ -1,0 +1,22 @@
+
+
+public class TestVar2 {
+	public static void main(String[] args) {
+		Boolean flag = true ;
+		int x,y =9;
+//		System.out.println("beforex=="+x);//wŒ¥≥ı ºªØ£¨º¥x!=9
+		double d = 3.1415;
+		char a1,a2;
+		a1 = '\u534e';
+		a2='c';
+		x=12;
+		System.out.println("flag=="+flag);
+		System.out.println("x=="+x);
+		System.out.println("y=="+y);
+		System.out.println("a1=="+a1);
+		System.out.println("a2=="+a2);
+		System.out.println("x=="+x);
+		
+	}
+	
+}
