@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="polymorphism.Actor"/>
+    <fullyQualifiedTypeName name="polymorphism.Stage"/>
+    <fullyQualifiedTypeName name="polymorphism.Useful"/>
+    <fullyQualifiedTypeName name="polymorphism.MoreUseful"/>
+    <fullyQualifiedTypeName name="test"/>
+    <fullyQualifiedTypeName name="Basic"/>
+    <fullyQualifiedTypeName name="Basic3"/>
+    <fullyQualifiedTypeName name="Uninstantiable"/>
+    <fullyQualifiedTypeName name="Instantiable"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.debugger.proc.aarch64.ProcAARCH64Thread"/>
+    <fullyQualifiedTypeName name="Processor"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="jdk.internal.joptsimple.internal.Strings"/>
+    <fullyQualifiedTypeName name="Upcase"/>
+    <fullyQualifiedTypeName name="Downcase"/>
+    <fullyQualifiedTypeName name="Splitter"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.nodes.NodeView.Default"/>
+    <fullyQualifiedTypeName name="com.sun.beans.introspect.PropertyInfo.Name"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="interfaceprocessor.StringProcessor"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="interfaceprocessor.Processor"/>
+    <fullyQualifiedTypeName name="filters.Filter"/>
+    <fullyQualifiedTypeName name="filters.Waveform"/>
+    <fullyQualifiedTypeName name="filters.LowPass"/>
+    <fullyQualifiedTypeName name="filters.HighPass"/>
+    <fullyQualifiedTypeName name="interfaceprocessor.Applicator"/>
+    <fullyQualifiedTypeName name="interfaceprocessor.FilterAdapter"/>
+    <fullyQualifiedTypeName name="filters.BandPass"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="innerclasses.Parcel2.Contents"/>
+    <fullyQualifiedTypeName name="innerclasses.Parcel2"/>
+    <fullyQualifiedTypeName name="innerclasses.Parcel2.Destination"/>
+    <fullyQualifiedTypeName name="com.sun.swing.internal.plaf.metal.resources.metal"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="sun.security.krb5.internal.crypto.Aes128CtsHmacSha2EType"/>
+    <fullyQualifiedTypeName name="com.sun.tools.doclint.Checker.Flag"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="java.lang.Byte"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+</qualifiedTypeNameHistroy>
