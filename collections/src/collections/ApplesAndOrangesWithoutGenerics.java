@@ -2,8 +2,6 @@ package collections;
 
 import java.util.ArrayList;
 
-import org.omg.CORBA.PRIVATE_MEMBER;
-
 class Apple {
 	private static long counter;
 	private final long id = counter++;
